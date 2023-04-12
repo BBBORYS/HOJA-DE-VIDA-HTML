@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+</head>
+
+<body>
+
+
+
+
+    <div style="text-align: center; font-size: 40px; border: 1px solid red;">HOJA DE VIDA</span>.
+    </div>
+
+
+
+
+    <div style="border: 1px solid rgb(3, 118, 3);">
+        <P><b><H2><p style="text-align:center">DATOS PRESONALES</p></H2></b></P>
+        <TR>
+            <TABLE border="1" width="60%" height="160">
+                <TR>
+                    <TD>
+                        <B>Cedula:  </B>
+                    </TD>
+                    <TD>1350920995</TD>
+                    <TD rowspan="12"><img src="https://scontent.fmec2-1.fna.fbcdn.net/v/t1.6435-9/118673532_2332115423600899_4009854985165851583_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeHTWc5h1yGLt9oNfoHp7xngYyfKl8xKVjJjJ8qXzEpWMim2bWn9DEO-2RttThpcj5qDcr1M1IyjAqXcjPKBmVig&_nc_ohc=eoTCoqoFSKMAX9Hjvpi&_nc_ht=scontent.fmec2-1.fna&oh=00_AfB9Mc9Ox_kLTxjDtpcUG13y8Kd1M-ig3GOCN_jZDhoxHQ&oe=645D9640"
+                            width="200" height="200"></TD>
+                </TR>
+                <TR>
+                    <TD>
+                        <B>Apellidos:  </B>
+                    </TD>
+                    <TD>VERA MERO</TD>
+                    <TR>
+                        <TD>
+                            <B>Nombres:  </B>
+                        </TD>
+                        <TD>BORYS HERNAN</TD>
+                        <TR>
+                            <TD>
+                                <B>Nacionalidad:  </B>
+                            </TD>
+                            <TD>Ecuatoriano</TD>
+                            <TR>
+                                <TD>
+                                    <B>Lugar de Nacimiento:  </B>
+                                </TD>
+                                <TD>MANTA</TD>
+                                <TR>
+                                    <TD>
+                                        <B>Fecha de Nacimiento:  </B>
+                                    </TD>
+                                    <TD> 2 de MAYO de 1998 </TD>
+                                    <TR>
+                                        <TD>
+                                            <B>Edad:  </B>
+                                        </TD>
+                                        <TD>24 </TD>
+                                        <TR>
+                                            <TD>
+                                                <B>Estado Civil:  </B>
+                                            </TD>
+                                            <TD>Soltero
+                                                <TR>
+                                                    <TD>
+                                                        <B>Direccion:  </B>
+                                                    </TD>
+                                                    <TD>COSTA AZUL</TD>
+                                                    <TR>
+                                                        <TD>
+                                                            <B>Email:  </B>
+                                                        </TD>
+                                                        <TD>e1350920995@live.uleam.edu.ec </TD>
+                                                        <TR>
+                                                            <TD>
+                                                                <B>Cargo/Profesión  </B>
+                                                            </TD>
+                                                            <TD>Estudiante En TI</TD>
+                                                            <TR>
+                                                                <TD>
+                                                                    <B>Celular:  </B>
+                                                                </TD>
+                                                                <TD>0939902427 </TD>
+
+            </TABLE>
+
+            <P><b><H2><p style="text-align:center">ESTUDIOS REALIZADOS</p></H2></b></P>
+
+            <UL>
+
+                <BR><b>Primaria</b></BR>
+                <BR>
+                <li>EL PALMAR</li>
+                </BR>
+                <BR><b>Secundaria</b></BR>
+                <BR>
+                <li>JOSE JOAQUIN DE OLMEDO </li>
+                </BR>
+                <BR><b>Superior</b></BR>
+                <BR>
+                <li>UNIVERSIDAD LAICA ELOY ALFARO DE MANABI </li>
+                </BR>
+            </UL>
+
+            <P><b><H2><p style="text-align:center">EXPERIENCIA LABORAL</p></H2></b></P>
+
+            <TABLE BORDER="1" width="49%" height="45">
+                <tr>
+                    <td><b>VENDEDOR</b></td>
+                    <TD> <a href=>2 AÑOS</a></td>
+                </tr>
+                <tr>
+                    <td><b>PRODUCTOR</b></td>
+                    <TD> <a href=>5 AÑOS </a></td>
+                </tr>
+            </table>
+
+
+
+
+            <P><b><H2><p style="text-align:center">CAPACITACIONES</p></H2></b></P>
+
+            <TABLE BORDER="1" width="49%" height="45">
+                <tr>
+                    <td><b>CONGRESO INTERNACIONAL TI</b></td>
+                    <TD> <a href=>120 HORAS</a></td>
+                </tr>
+                <tr>
+                    <td><b>CONGRESO DE PRIMEROS AUXILIO </b></td>
+                    <TD> <a href=>5 HORAS </a></td>
+                </tr>
+            </table>
+
+
+
+
+
+    </div>
+    <div style="border: 1px solid blue;">
+        <P><b><H2><b><p style="text-align:center">REFERENCIAS PERSONALES</p></H2></b></P>
+        <TABLE BORDER="1" width="49%" height="45">
+            <tr>
+                <td><b>Ing. Willian España</b></td>
+                <TD>0999130753</td>
+            </tr>
+            <tr>
+                <td><b>Tlga. Alexandra Flores</b></td>
+                <td>0982650759</td>
+            </tr>
+            <tr>
+                <td><b>Tlga.Fernanda Tinoco</b></td>
+                <td>0980209971</td>
+            </tr>
+        </table>
+
+
+
+    </div>
+</body>
+
+</html>
